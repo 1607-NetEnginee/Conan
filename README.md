@@ -9,7 +9,7 @@ Dibuat untuk kegiatan sosial oleh **Cyberoutcast Detective Organization**.
 
 ```bash
 # Clone atau download repo
-git clone https://github.com/USERNAME/conan.git
+git clone https://github.com/1607-NetEnginee/conan.git
 cd conan
 
 # Install dependensi
@@ -76,6 +76,7 @@ conan/
 Tool ini hanya mengakses data yang tersedia secara **publik dan legal**.  
 Digunakan untuk keperluan investigasi sosial dan diserahkan ke pihak berwenang.  
 Penggunaan di luar itu adalah tanggung jawab pengguna sepenuhnya.
+Jika ada masukan silahkan hubungi kami dengan email ke rootmask597@proton.me 
 
 ---
 
