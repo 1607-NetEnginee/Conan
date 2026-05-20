@@ -1,0 +1,87 @@
+{
+  "judul": "Laporan Investigasi Digital",
+  "toolkit": "Conan – Cyberoutcast OSINT Toolkit v1.0",
+  "tanggal": "2026-05-20T00:42:43.802873",
+  "investigator": "Cyberoutcast",
+  "sesi": {
+    "dibuat": "2026-05-20T00:39:00.467947",
+    "investigator": "Cyberoutcast",
+    "data": [
+      {
+        "modul": "phone_osint",
+        "target": "+6285280577701",
+        "waktu": "2026-05-20T00:39:00.467974",
+        "hasil": {
+          "nomor_internasional": "+62 852-8057-7701",
+          "nomor_e164": "+6285280577701",
+          "valid": true,
+          "possible": true,
+          "wilayah": "Indonesia",
+          "operator": "Telkomsel",
+          "timezone": [
+            "Asia/Jakarta"
+          ],
+          "kode_negara": 62,
+          "nomor_nasional": 85280577701,
+          "whatsapp_terdaftar": true,
+          "cekrekening_hint": "https://cekrekening.id",
+          "getcontact_hint": "Cek manual: https://getcontact.com/search/6285280577701"
+        }
+      },
+      {
+        "modul": "whatsapp_info",
+        "target": "6285280577701",
+        "waktu": "2026-05-20T00:39:59.816110",
+        "hasil": {
+          "nomor": "6285280577701",
+          "wa_me_url": "https://wa.me/6285280577701",
+          "terdaftar": true,
+          "nama": "Share on WhatsApp",
+          "about": "-",
+          "foto_profil": "-",
+          "link_profil": "https://wa.me/6285280577701",
+          "chat_langsung": "https://api.whatsapp.com/send?phone=6285280577701"
+        }
+      },
+      {
+        "modul": "image_metadata",
+        "target": "Tiara(1).jpeg",
+        "waktu": "2026-05-20T00:41:33.334291",
+        "hasil": {
+          "format": "JPEG",
+          "mode": "RGB",
+          "ukuran": "354 x 472 pixel",
+          "file_size": "189,011 bytes",
+          "exif": "Tidak ada data EXIF"
+        }
+      },
+      {
+        "modul": "rekening_osint",
+        "target": "1995160770",
+        "waktu": "2026-05-20T00:42:14.842137",
+        "hasil": {
+          "cekrekening": {
+            "sumber": "cekrekening.id",
+            "url_manual": "https://cekrekening.id/home",
+            "nomor": "1995160770",
+            "bank": "BNI",
+            "status": "Perlu dicek manual",
+            "instruksi": "Buka cekrekening.id, masukkan nomor rekening dan nama bank"
+          },
+          "kredibel": {
+            "sumber": "kredibel.co.id",
+            "url_manual": "https://www.kredibel.co.id/scammer?q=1995160770",
+            "instruksi": "Buka URL di atas untuk cek laporan penipuan"
+          },
+          "siber_polri": {
+            "sumber": "Siber Polri",
+            "url_lapor": "https://patrolisiber.id",
+            "url_lapor2": "https://lapor.go.id",
+            "instruksi": "Untuk laporan resmi ke Polri"
+          }
+        }
+      }
+    ],
+    "terakhir_diperbarui": "2026-05-20T00:42:14.842162"
+  }
+}
