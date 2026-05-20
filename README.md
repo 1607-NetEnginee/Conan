@@ -68,17 +68,6 @@ conan/
 └── reports/          ← Output laporan tersimpan di sini
 ```
 
----
-
-## 🔧 Pengembangan Lanjutan
-
-Untuk menambah modul baru, kirim pesan berikut ke Claude:
-
-```
-#CyberoutcastToolkit
-Repo: github.com/USERNAME/conan
-Minta tambah modul: [nama modul yang diinginkan]
-```
 
 ---
 
